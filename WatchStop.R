@@ -1,5 +1,5 @@
 #StopWATCH ####
-#A Atopwatch R6class object you can use in your R scprits for timing and benchmarking of your code
+#A Stopwatch R6class object you can use in your R scprits for timing and benchmarking of your code
 #Dependencies: Lubridate, Hms, R6
 #Alex Sh. 2018-04-05
 library(R6)
